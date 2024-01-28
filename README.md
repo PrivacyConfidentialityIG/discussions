@@ -1,0 +1,1 @@
+This repository generates [the discussions](https://github.com/orgs/PrivacyConfidentialityIG/discussions) for the [ASA's P&C Interest Group GitHub organization](https://github.com/PrivacyConfidentialityIG).
